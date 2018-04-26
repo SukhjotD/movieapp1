@@ -1,0 +1,8 @@
+/Users/Nick/eclipse-workspace/movieapp/src/main/java/com/qa/business/repository/MovieDBRepository.java
+/Users/Nick/eclipse-workspace/movieapp/src/main/java/com/qa/util/JSONUtil.java
+/Users/Nick/eclipse-workspace/movieapp/src/main/java/com/qa/business/service/MovieService.java
+/Users/Nick/eclipse-workspace/movieapp/src/main/java/com/qa/integration/MovieEndpoint.java
+/Users/Nick/eclipse-workspace/movieapp/src/main/java/com/qa/integration/JAXActivator.java
+/Users/Nick/eclipse-workspace/movieapp/src/main/java/com/qa/persistence/domain/Movie.java
+/Users/Nick/eclipse-workspace/movieapp/src/main/java/com/qa/business/service/IMovieService.java
+/Users/Nick/eclipse-workspace/movieapp/src/main/java/com/qa/business/repository/IMovieRepository.java
